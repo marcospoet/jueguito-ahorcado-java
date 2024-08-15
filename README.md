@@ -1,4 +1,4 @@
-## Juego ahorcado JAVA
+## Juego ahorcado JAVA poet
 Hice un juego estilo hangman en JAVA en donde uno debe ir colocando letra por letra en la consola y tiene cierta cantidad de intentos. Si logra completar la palabra se gana la partida, caso contrario (no completar la palabra en los intentos dados) uno pierde.
 ## Herramientas usadas
 
